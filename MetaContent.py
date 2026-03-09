@@ -137,7 +137,7 @@ def scrape_website_meta_to_excel(start_url, output_excel_path):
 
 # --- Run Example ---
 if __name__ == "__main__":
-    website_url = "https://technologyrental.com.au/"  # Example: can be WordPress or custom
+    website_url = "https://Example "  # Example: can be WordPress or custom
     output_file = "website_metadata_updated.xlsx"
     scrape_website_meta_to_excel(website_url, output_file)
 

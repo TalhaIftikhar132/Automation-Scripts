@@ -19,7 +19,7 @@ DEVICES = {
     "Mobile": (375, 667),
 }
 
-START_URL = "https://technologyrental.sg/"  # Change to your website
+START_URL = "URL example/"  # Change to your website
 MAX_PAGES = 300
 MAX_WORKERS = 40
 TIMEOUT = 10

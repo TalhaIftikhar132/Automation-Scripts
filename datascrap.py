@@ -15,7 +15,7 @@ driver = webdriver.Chrome(service=service, options=options)
 options = Options()
 options.add_argument("--start-maximized")  # Open browser visibly
 driver = webdriver.Chrome(service=service, options=options)
-driver.get("https://eventtechlive.com/exhibitors/")
+driver.get("https://Example")
 
 # Scroll to load all exhibitors
 last_height = driver.execute_script("return document.body.scrollHeight")

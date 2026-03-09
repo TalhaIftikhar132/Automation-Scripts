@@ -360,7 +360,7 @@ DEVICES = {
     "Mobile": (375, 667),
 }
 
-START_URL = "https://oneworldrental.ae/"  # Change to your website
+START_URL = "https://Example"  # Change to your website
 MAX_PAGES = 200                              # Maximum pages to crawl
 MAX_WORKERS = 40                             # Threads for parallel image checks
 TIMEOUT = 10                                 # Increased timeout for stability

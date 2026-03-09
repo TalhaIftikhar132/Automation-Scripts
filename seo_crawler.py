@@ -32,7 +32,7 @@ from urllib.robotparser import RobotFileParser
 # Configuration
 # ----------------------
 HEADLESS = True
-USER_AGENT = "SeleniumSEO/1.0 (https://oneworldrental.com.au/)"
+USER_AGENT = "SeleniumSEO/1.0 (https://Example)"
 MAX_PAGES = 200  # guard to avoid crawling entire web unintentionally
 WORKERS = 10     # concurrency for requests checks
 REQUEST_TIMEOUT = 10

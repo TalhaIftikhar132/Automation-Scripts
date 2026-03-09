@@ -136,7 +136,7 @@ import csv
 import time
 
 # ---------- CONFIG ----------
-START_URL = "https://technologyrental.sg/"
+START_URL = "https://example/"
 DOMAIN = urlparse(START_URL).netloc
 MAX_PAGES = 300
 OUTPUT_FILE = "missing_alt_report.csv"

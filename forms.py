@@ -10,7 +10,7 @@
 # driver = webdriver.Chrome()
 
 # # Open website
-# driver.get("https://oneworldrental.com/contact-us")
+# driver.get("https://example")
 
 # driver.maximize_window()
 
@@ -72,7 +72,7 @@ import time
 
 driver = webdriver.Chrome()
 
-driver.get("https://ipadrental.us/contact-us/")
+driver.get("https://example")
 
 driver.maximize_window()
 

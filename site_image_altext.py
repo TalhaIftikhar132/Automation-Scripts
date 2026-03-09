@@ -6,7 +6,7 @@ import pandas as pd
 from urllib.parse import urljoin, urlparse
 import time
 
-start_url = "https://oneworldrental.co.uk"   # replace with your website    
+start_url = "https://Example "   # replace with your website    
 
 visited = set()
 to_visit = [start_url]
