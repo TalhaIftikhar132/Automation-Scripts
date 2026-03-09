@@ -5,27 +5,8 @@ from requests.auth import HTTPBasicAuth
 
 # List of websites to audit
 websites = [
-    "https://oneworldrental.com/blog",
-    "https://oneworldrental.com.au/blog",
-    "https://oneworldrental.co.uk/blog",
-    "https://oneworldrental.ca/blog",
-    "https://oneworldrental.sg/blog",
-    "https://oneworldrental.ae/blog",
-    "https://oneworldrental.nl",
-    "https://oneworldrental.es",
-    "https://technologyrental.com",
-    "https://technologyrental.co.uk",
-    "https://technologyrental.sg",
-    "https://technologyrental.com.au",
-    "https://owreventwifi.ca",
-    "https://owreventwifi.com.au",
-    "https://owreventwifi.co.uk",
-    "https://event-wifi.ca",
-    "http://oneworldstaff.com",
-    "http://emeraldit.com.au",
-    "https://scottishhire.co.uk",
-    "https://ipadrental.us",
-    "http://hirelaptops.com.au"
+    "https://Example/blog",
+    "http://Example"
     
 
 ]
