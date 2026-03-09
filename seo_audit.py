@@ -5,7 +5,7 @@ from collections import deque, defaultdict
 import csv
 
 # ---- CONFIG ----
-START_URL = "https://ipadrental.us/"
+START_URL = "https://oneworldrental.ae/"
 DOMAIN = urlparse(START_URL).netloc
 MAX_PAGES = 200
 TITLE_MIN, TITLE_MAX = 30, 65
