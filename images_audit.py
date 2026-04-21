@@ -137,8 +137,8 @@ from bs4 import BeautifulSoup
 # ---------------- CONFIG ----------------
 # ADD ONLY SPECIFIC PAGES HERE
 TARGET_PAGES = [
-    "https://oneworldrental.com.au/",
-    "https://oneworldrental.com.au/iphone-rental"
+    "https:Example",
+    "https://example"
 ]
 
 OUTPUT_FILE = "OWR AU specific_pages_image_audit.xlsx"
