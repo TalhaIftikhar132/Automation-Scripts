@@ -9,7 +9,7 @@
 # from bs4 import BeautifulSoup
 
 # # ---------------- CONFIG ----------------
-# START_URL = "https://oneworldrental.co.uk/"   # Change this
+# START_URL = "https://Example"   # Change this
 # MAX_PAGES = 20
 # OUTPUT_FILE = "images_data UK site.xlsx"
 # # ---------------------------------------
